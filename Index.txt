@@ -1,32 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cloud Automation</title>
-</head>
-<body>
-  <center><b><h2>Cloud Automation</h2></b></center>
-  <center><img src="https://www.weka.io/wp-content/uploads/files/2022/09/cloud-automation-img.jpg" alt=""></center>
-  <li>Description</li>
-  <p>Cloud automation refers to the use of automated processes and tools to manage, provision, and operate cloud computing resources and services. It encompasses a variety of tasks and workflows, from deploying and scaling applications to configuring and monitoring infrastructure, all without manual intervention.</p>
-  <li>Features</li>
-  <p>Users can request and provision cloud resources such as virtual machines, databases, and storage through a self-service portal or API, reducing the dependency on IT personnel for resource provisioning.</p>
-  <li>5 Types</li>
-  <p>Self-Service Provisioning</p>
-  <p>Auto-scaling</p>
-  <p>Policy-Based Governance</p>
-  <p>Configuration Management</p>
-  <p>Integration</p>
-  <li>3 Benefits</li>
-  <p>Increased Efficiency</p>
-  <p>Improved Reliability and Consistency</p>
-  <p>Cost Savings</p>
-  <li>3 Challanges</li>
-  <p>Complexity of Implementation</p>
-  <p>Security and Compliance Risks</p>
-  <p>Skills Gap and Training Needs</p>
-  
 
 
 
@@ -44,16 +15,3 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-</body>
-</html>
